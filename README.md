@@ -11,4 +11,14 @@ To-do (in order of increasing difficulty):
   
 -Enable interaction with the calendar in the 3D space
 
+
+Wearhacks 2017 © Raveena D'Souza, Tracy Chen, Nicole Rosario, Adrianna Ascalon
+=======
 Code for our project made at Wearhacks 2017
+
+To-Do for Myo:
+-Swipe up/down (parse up and down list)
+-Swipe left/right (switch between things)
+-Grab(select)
+-Grab and throw
+
