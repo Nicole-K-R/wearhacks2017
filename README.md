@@ -16,9 +16,10 @@ Wearhacks 2017 © Raveena D'Souza, Tracy Chen, Nicole Rosario, Adrianna Ascalon
 =======
 Code for our project made at Wearhacks 2017
 
-To-Do for Myo:
+To-Do for Myo:(Nicole Rosario)
 -Swipe up/down (parse up and down list)
 -Swipe left/right (switch between things)
 -Grab(select)
 -Grab and throw
-
+-Interact with Unity
+-Change gestures to work with Unity project
